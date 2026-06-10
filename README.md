@@ -1,5 +1,5 @@
 # Free LLM API Setup — Groq
-AutoJob Project | Author: Apurva Chavan
+AutoJob Project 
 
 ## What is this?
 Free LLM API using Groq for AutoJob project.
